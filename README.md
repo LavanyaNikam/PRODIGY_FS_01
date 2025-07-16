@@ -1,8 +1,12 @@
-### 🛡️ User Authentication System – Task 1
+# 🛡️ User Authentication System – Task 1
+
 This is Task 1 of my Full Stack Web Development Internship at **Prodigy InfoTech**.  
 A secure **User Authentication System** built using the **MERN stack** with JWT-based login, registration, and protected routes.
 
-### 🚀 Features
+---
+
+## 🚀 Features
+
 - User registration
 - User login with JWT
 - Protected backend routes
@@ -10,13 +14,19 @@ A secure **User Authentication System** built using the **MERN stack** with JWT-
 - Tailwind CSS styling
 - Token stored in localStorage
 
-### 🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
+
 - **Frontend**: React, Tailwind CSS, Axios
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (Atlas)
 - **Auth**: JWT (JSON Web Token)
 
-### 📦 Setup Instructions
+---
+
+## 📦 Setup Instructions
+
 ### 1. Clone the repo
 
 ```bash
